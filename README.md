@@ -1,2 +1,2 @@
 # sports-scheduling
-Sports scheduling application built with MEVN stack with secure login
+Sports scheduling application built with MEVN stack
